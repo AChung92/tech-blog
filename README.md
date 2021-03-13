@@ -25,9 +25,9 @@ Project created with:
 * Heroku
 
 ## Status
-To view a user guide of my project please visit the below.
+To view the app please visit the below.
 
-[Tech Blog](https://drive.google.com/file/d/1TteP692cUPp5KRuoQLvsWysRk-WEJ3l-/view)
+[Tech Blog](https://tech-blog1992.herokuapp.com/login)
 
 ## Screenshot
 
