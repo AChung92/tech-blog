@@ -31,8 +31,8 @@ To view the app please visit the below.
 
 ## Screenshot
 
-![screenshot](assets/images/1.png))
-![screenshot](assets/images/2.png))
-![screenshot](assets/images/3.png))
-![screenshot](assets/images/4.png))
-![screenshot](assets/images/5.png))
+![screenshot](public/assets/images/1.png))
+![screenshot](public/assets/images/2.png))
+![screenshot](public/assets/images/3.png))
+![screenshot](public/assets/images/4.png))
+![screenshot](public/assets/images/5.png))
